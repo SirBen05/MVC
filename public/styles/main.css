@@ -1,0 +1,29 @@
+#content{
+    padding: 80px 20px;
+    background-color: #fff;
+    min-height: 100vh;
+}
+.bg-black{
+    background-color: #000;
+}
+.header-col{
+    font-weight: bold; 
+}
+.id-col{
+    min-width: 30px;
+}
+.name-col{
+    min-width: 120px;
+}
+.surname-col{
+    min-width: 120px;
+}
+.age-col{
+    min-width: 30px;    
+}
+.form-col{
+    min-width: 60px;
+}
+.average-col{
+    min-width: 40px;    
+}
